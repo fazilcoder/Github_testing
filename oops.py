@@ -6,4 +6,4 @@ class a:
     def print1(self):
         print(self.a+self.b)
 ob=a(10,20)
-ob.print1()
+# ob.print1()
